@@ -8,21 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
 
 Hello, I am Jixin Gao, received the M.S. degree in control science and engineering from Harbin Engineering University. I am currently pursuing the Ph.D. degree in mechanical engineering at Harbin Institute of Technology. 
 My research interests include state estimation, multi-sensor fusion SLAM, and robot navigation system.
 
-{%# 🔥 News
+<!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. %}
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📝 Publications 
 - [**IEEE Transactions on Instrumentation and Measurement**][A Robust and Fast GNSS-Inertial-LiDAR Odometry With INS-Centric Multiple Modalities by IESKF](https://xploreqa.ieee.org/document/10385063), **Jixin Gao**, Jianjun sha, Hongwen Li, et al.
