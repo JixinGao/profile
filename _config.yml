@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Gao Jixin"
-description              : "Hello"
+description              : " "
 repository               : "JixinGao/profile"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Gao Jixin"
   avatar           : "images/profile_photo_512x512.png"
-  bio              : "Hello"
+  bio              : " "
   location         : "Harbin, China"
   employer         :
   pubmed           : 
