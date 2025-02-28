@@ -11,7 +11,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am Jixin Gao, received the M.S. degree in control science and engineering from Harbin Engineering University. I am currently pursuing the Ph.D. degree in mechanical engineering at Harbin Institute of Technology. 
+Hello, I am Gao Jixin, received the M.S. degree in control science and engineering from Harbin Engineering University. I am currently pursuing the Ph.D. degree in mechanical engineering at Harbin Institute of Technology. 
+
 My research interests include state estimation, multi-sensor fusion SLAM, and robot navigation system.
 
 <!-- # 🔥 News
