@@ -20,13 +20,16 @@ My research interests include state estimation, multi-sensor fusion, and robot n
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📝 Publications 
-- [**IEEE Transactions on Instrumentation and Measurement**]
+- [**IEEE Robotics and Automation Letters**] '25
+
+  [HR<sup>2</sup>-KILO: A High-Rate, Robust, Kinematic-Inertial-LiDAR Odometry for Humanoid Robots](https://ieeexplore.ieee.org/document/11206479), **Jixin Gao**, Fusheng Zha, Lianzhao Zhang, et al.
+- [**IEEE Transactions on Instrumentation and Measurement**] '24
 
   [A Robust and Fast GNSS-Inertial-LiDAR Odometry With INS-Centric Multiple Modalities by IESKF](https://xploreqa.ieee.org/document/10385063), **Jixin Gao**, Jianjun sha, Hongwen Li, et al.
-- [**Robotics and Autonomous Systems**]
+- [**Robotics and Autonomous Systems**] '24
 
   [A Fast and Stable GNSS-LiDAR-Inertial State Estimator from Coarse to Fine by Iterated Error-state Kalman Filter](https://www.sciencedirect.com/science/article/pii/S0921889024000587), **Jixin Gao**, Jianjun sha, Yanheng Wang, et al.
-- [**2023ICMA**]
+- [**2023ICMA**] '23
 
   [A LiDAR Inertial Odometry Based on Adaptive Voxel Grid Filter for Indoor and Outdoor Mixed Environments](https://xploreqa.ieee.org/document/10215777), **Jixin Gao**, Jianjun sha, Hongwen Li, et al.
 
